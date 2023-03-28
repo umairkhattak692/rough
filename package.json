@@ -1,0 +1,25 @@
+{
+  "name": "rough",
+  "version": "1.0.0",
+  "description": "This is my very first repositry on git hub to learn the basic functionality. Thanks for my time.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairkhattak692/rough.git"
+  },
+  "author": "umair khattak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairkhattak692/rough/issues"
+  },
+  "homepage": "https://github.com/umairkhattak692/rough#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
